@@ -1,0 +1,22 @@
+{
+  "name": "teste_software_atvdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WALISONPAULINO/Teste_software_atvdd.git"
+  },
+  "author": "Walison Paulino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WALISONPAULINO/Teste_software_atvdd/issues"
+  },
+  "homepage": "https://github.com/WALISONPAULINO/Teste_software_atvdd#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
